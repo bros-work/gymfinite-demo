@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Gymfinite Demo</string>
-    <string name="textviewName">Save</string>
+    <string name="textView_name">Save</string>
+    <string name="login">login</string>
+    <string name="usernameHint">LOGIN</string>
+    <string name="passwordHint">PASSWORD</string>
 </resources>
