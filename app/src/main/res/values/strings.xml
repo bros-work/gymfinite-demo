@@ -17,4 +17,8 @@
     <string name="user_id">123456789</string>
     <string name="fail_text">NO</string>
     <string name="invalid_text">INVALID</string>
+    <string name="setting_text">SETTING</string>
+    <string name="event">first event</string>
+    <string name="change_text">change</string>
+    <string name="logout_text">logout</string>
 </resources>
