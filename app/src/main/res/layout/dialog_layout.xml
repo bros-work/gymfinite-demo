@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <Button
+        android:id="@+id/login_success"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/success_text"
+        android:textSize="32sp"
+        android:textColor="@color/colorTextLight"
+        android:background="@color/colorTextButton"
+        android:paddingEnd="128dp"
+        android:paddingStart="120dp"
+        android:paddingTop="16dp"
+        android:paddingBottom="0dp"/>
+    <TextView
+        android:id="@+id/login_successId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/user_id"
+        android:textSize="14dp"
+        android:textColor="@color/colorTextLight"
+        android:background="@color/colorTextButton"
+        android:paddingEnd="128dp"
+        android:paddingStart="133dp"
+        android:paddingTop="0dp"
+        android:paddingBottom="16dp"
+         />
+
+
+    </LinearLayout>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:src="@drawable/back_24"
+        android:background="@color/colorTextLight"
+        />
+
+</LinearLayout>

@@ -4,4 +4,15 @@
     <string name="login">login</string>
     <string name="usernameHint">LOGIN</string>
     <string name="passwordHint">PASSWORD</string>
+    <string name="guestPage">GUEST</string>
+    <string name="checkIn">CHECK-IN</string>
+    <string name="back_button_desc">back button</string>
+    <string name="settings_button_desc">settings button</string>
+    <string name="camera_button_desc">camera button</string>
+    <string name="search_button_desc">search button</string>
+    <string name="user_one">Seth Finley</string>
+    <string name="user_mail">sethfinley@mail.com</string>
+    <string name="user_address">USA</string>
+    <string name="success_text">OK</string>
+    <string name="user_id">123456789</string>
 </resources>
