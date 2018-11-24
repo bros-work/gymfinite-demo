@@ -21,4 +21,5 @@
     <string name="event">first event</string>
     <string name="change_text">change</string>
     <string name="logout_text">logout</string>
+    <string name="guest_list">GUEST LIST</string>
 </resources>
