@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:layout_margin="0dp"
+    android:orientation="horizontal"
+    android:background="@color/colorBackground">
+    <Button
+        android:id="@+id/action_bar_btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="@string/setting_text"
+        android:textSize="16sp"
+        android:background="@android:color/transparent"
+        android:paddingBottom="0dp"
+        android:paddingTop="0dp"
+        android:textColor="@color/colorTextLight"
+        />
+
+</LinearLayout>
