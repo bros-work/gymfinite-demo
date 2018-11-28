@@ -11,15 +11,16 @@
     <Button
         android:id="@+id/login_success"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:text="@string/success_text"
         android:textSize="32sp"
         android:textColor="@color/colorTextLight"
-        android:background="@color/colorTextButton"
-        android:paddingEnd="128dp"
-        android:paddingStart="128dp"
+        android:background="@drawable/btn_background"
+        android:paddingEnd="90dp"
+        android:paddingStart="90dp"
         android:paddingTop="16dp"
-        android:paddingBottom="0dp"/>
+        android:paddingBottom="0dp"
+        android:stateListAnimator="@null"/>
     <TextView
         android:id="@+id/login_successId"
         android:layout_width="wrap_content"
@@ -28,8 +29,8 @@
         android:textSize="14dp"
         android:textColor="@color/colorTextLight"
         android:background="@color/colorTextButton"
-        android:paddingEnd="128dp"
-        android:paddingStart="128dp"
+        android:paddingEnd="90dp"
+        android:paddingStart="90dp"
         android:paddingTop="0dp"
         android:paddingBottom="16dp"
          />
