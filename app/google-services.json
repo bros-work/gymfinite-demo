@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "844278445689",
+    "firebase_url": "https://gymfinite-demo.firebaseio.com",
+    "project_id": "gymfinite-demo",
+    "storage_bucket": "gymfinite-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844278445689:android:fb9ad41d17b15f7d",
+        "android_client_info": {
+          "package_name": "com.broswork.gymfinitedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844278445689-npof3ng9igf36jng5ohjhbsqtrvrskd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTL-cgXCYQm6dfkvYaxy6BhzlDWhwiASY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
